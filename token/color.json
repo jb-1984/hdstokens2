@@ -1,9 +1,8 @@
 {
   "black": {
     "hy-black": {
-      "value": "#000000",
-      "type": "color",
-      "description": "#000000"
+      "value": "{coolGray.hy-coolgray-900}",
+      "type": "color"
     }
   },
   "white": {
@@ -15,17 +14,17 @@
   },
   "text": {
     "hy-text-black": {
-      "value": "#111827",
+      "value": "{coolGray.hy-coolgray-900}",
       "type": "color",
       "description": "Used for normal text in light mode"
     },
     "hy-text-white": {
-      "value": "#ffffff",
+      "value": "{white.hy-white}",
       "type": "color",
       "description": "Use for white text"
     },
     "hy-text-secondary": {
-      "value": "#4b5563",
+      "value": "{coolGray.hy-coolgray-600}",
       "type": "color",
       "description": "Used for secondary text in light mode"
     },
@@ -36,95 +35,95 @@
     }
   },
   "primary": {
-    "hy-primary-50": {
+    "primary-50": {
       "value": "#f1f8fe",
       "type": "color",
       "description": "#F1F8FE"
     },
-    "hy-primary-100": {
+    "primary-100": {
       "value": "#e2eefa",
       "type": "color",
       "description": "#E2EEFA"
     },
-    "hy-primary-200": {
+    "primary-200": {
       "value": "#b7d5f3",
       "type": "color",
       "description": "#B7D5F3"
     },
-    "hy-primary-300": {
+    "primary-300": {
       "value": "#87b9ec",
       "type": "color",
       "description": "#87B9EC"
     },
-    "hy-primary-400": {
+    "primary-400": {
       "value": "#569de4",
       "type": "color",
       "description": "#569DE4"
     },
-    "hy-primary-500": {
+    "primary-500": {
       "value": "#3288de",
       "type": "color",
       "description": "#3288DE"
     },
-    "hy-primary-600": {
+    "primary-600": {
       "value": "#0e73d8",
       "type": "color",
       "description": "#0E73D8"
     },
-    "hy-primary-700": {
+    "primary-700": {
       "value": "#0a60ce",
       "type": "color",
       "description": "#0A60CE"
     },
-    "hy-primary-800": {
+    "primary-800": {
       "value": "#043cac",
       "type": "color",
       "description": "#043CAC"
     },
-    "hy-primary-900": {
+    "primary-900": {
       "value": "#03318b",
       "type": "color",
       "description": "#03318B"
     }
   },
   "neutral": {
-    "hy-neutral-50": {
+    "neutral-50": {
       "value": "#f9fafb",
       "type": "color"
     },
-    "hy-neutral-100": {
+    "neutral-100": {
       "value": "#f3f4f6",
       "type": "color"
     },
-    "hy-neutral-200": {
+    "neutral-200": {
       "value": "#e5e7eb",
       "type": "color"
     },
-    "hy-neutral-300": {
+    "neutral-300": {
       "value": "#d1d5db",
       "type": "color"
     },
-    "hy-neutral-400": {
+    "neutral-400": {
       "value": "#9ca3af",
       "type": "color"
     },
-    "hy-neutral-500": {
+    "neutral-500": {
       "value": "#6b7280",
       "type": "color"
     },
-    "hy-neutral-600": {
+    "neutral-600": {
       "value": "#4b5563",
       "type": "color"
     },
-    "hy-neutral-700": {
+    "neutral-700": {
       "value": "#374151",
       "type": "color"
     },
-    "hy-neutral-800": {
+    "neutral-800": {
       "value": "#1f2937",
       "type": "color"
     },
-    "hy-neutral-900": {
+    "neutral-900": {
       "value": "#111827",
       "type": "color"
     }
