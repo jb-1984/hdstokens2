@@ -1,6 +1,9 @@
 {
   "tokenSetOrder": [
     "color",
-    "typography"
+    "typography",
+    "border-radius",
+    "box-shadow",
+    "spacing"
   ]
 }

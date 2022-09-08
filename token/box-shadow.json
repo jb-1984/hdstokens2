@@ -1,0 +1,104 @@
+{
+  "24dp": {
+    "value": [
+      {
+        "color": "#00000033",
+        "type": "dropShadow",
+        "x": 0,
+        "y": 11,
+        "blur": 15,
+        "spread": 0
+      },
+      {
+        "color": "#0000001f",
+        "type": "dropShadow",
+        "x": 0,
+        "y": 9,
+        "blur": 46,
+        "spread": 0
+      },
+      {
+        "color": "#00000024",
+        "type": "dropShadow",
+        "x": 0,
+        "y": 24,
+        "blur": 38,
+        "spread": 0
+      }
+    ],
+    "type": "boxShadow",
+    "description": "Use on Dialogs, Modals"
+  },
+  "4dp": {
+    "value": [
+      {
+        "color": "#00000033",
+        "type": "dropShadow",
+        "x": 0,
+        "y": 1,
+        "blur": 10,
+        "spread": 0
+      },
+      {
+        "color": "#0000001f",
+        "type": "dropShadow",
+        "x": 0,
+        "y": 4,
+        "blur": 5,
+        "spread": 0
+      },
+      {
+        "color": "#00000024",
+        "type": "dropShadow",
+        "x": 0,
+        "y": 2,
+        "blur": 4,
+        "spread": 0
+      }
+    ],
+    "type": "boxShadow",
+    "description": "Use on Toast, Menu's"
+  },
+  "innerShadow": {
+    "Inner Shadow": {
+      "value": {
+        "color": "#00000066",
+        "type": "innerShadow",
+        "x": 0,
+        "y": 0,
+        "blur": 4,
+        "spread": 0
+      },
+      "type": "boxShadow"
+    },
+    "Drop Shadow": {
+      "value": [
+        {
+          "color": "#00000033",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 0,
+          "blur": 2,
+          "spread": 0
+        },
+        {
+          "color": "#0000001f",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 0,
+          "blur": 2,
+          "spread": 0
+        },
+        {
+          "color": "#00000024",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 0,
+          "blur": 2,
+          "spread": 0
+        }
+      ],
+      "type": "boxShadow"
+    }
+  }
+}
