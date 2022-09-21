@@ -105,7 +105,7 @@
     },
     "type": "typography"
   },
-  "hds-subHeadingSemiboldr": {
+  "hds-sub-heading-semiboldr": {
     "value": {
       "fontFamily": "{fontFamilies.open-sans}",
       "fontWeight": "{fontWeights.open-sans-1}",
@@ -118,7 +118,7 @@
     },
     "type": "typography"
   },
-  "hds-subHeading": {
+  "hds-sub-heading": {
     "value": {
       "fontFamily": "{fontFamilies.open-sans}",
       "fontWeight": "{fontWeights.open-sans-0}",
@@ -131,7 +131,7 @@
     },
     "type": "typography"
   },
-  "hds-Body-SemiBold": {
+  "hds-body-semi-bold": {
     "value": {
       "fontFamily": "{fontFamilies.open-sans}",
       "fontWeight": "{fontWeights.open-sans-1}",
@@ -144,7 +144,7 @@
     },
     "type": "typography"
   },
-  "hds-Body": {
+  "hds-body": {
     "value": {
       "fontFamily": "{fontFamilies.open-sans}",
       "fontWeight": "{fontWeights.open-sans-0}",
@@ -157,7 +157,7 @@
     },
     "type": "typography"
   },
-  "hds-Caption": {
+  "hds-caption": {
     "value": {
       "fontFamily": "{fontFamilies.open-sans}",
       "fontWeight": "{fontWeights.open-sans-0}",
@@ -170,7 +170,7 @@
     },
     "type": "typography"
   },
-  "hds-captionBold": {
+  "hds-caption-bold": {
     "value": {
       "fontFamily": "{fontFamilies.open-sans}",
       "fontWeight": "{fontWeights.open-sans-2}",
@@ -184,7 +184,7 @@
     "type": "typography",
     "description": "Caption Text\nFont size: 12px\nFont weight: 700\nLine-height: 19px"
   },
-  "hds-bodySemiBoldUnderline": {
+  "hds-body-semi-bold-underline": {
     "value": {
       "fontFamily": "{fontFamilies.open-sans}",
       "fontWeight": "{fontWeights.open-sans-1}",
@@ -198,7 +198,7 @@
     "type": "typography",
     "description": "Used in Link component to show hover"
   },
-  "hds-bodySemiBoldTag": {
+  "hds-body-semi-bold-tag": {
     "value": {
       "fontFamily": "{fontFamilies.open-sans}",
       "fontWeight": "{fontWeights.open-sans-1}",
@@ -212,7 +212,7 @@
     "type": "typography",
     "description": "Use in the Tag component only to get size of tag at 20px."
   },
-  "hds-bodyBold": {
+  "hds-body-bold": {
     "value": {
       "fontFamily": "{fontFamilies.open-sans}",
       "fontWeight": "{fontWeights.open-sans-2}",

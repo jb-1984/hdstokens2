@@ -59,46 +59,44 @@
     "type": "boxShadow",
     "description": "Use on Toast, Menu's"
   },
-  "innerShadow": {
-    "Inner Shadow": {
-      "value": {
-        "color": "#00000066",
-        "type": "innerShadow",
+  "inner-shadow": {
+    "value": {
+      "color": "#00000066",
+      "type": "innerShadow",
+      "x": "0",
+      "y": "0",
+      "blur": "4",
+      "spread": "0"
+    },
+    "type": "boxShadow"
+  },
+  "drop-shadow": {
+    "value": [
+      {
+        "color": "#00000033",
+        "type": "dropShadow",
         "x": "0",
         "y": "0",
-        "blur": "4",
+        "blur": "2",
         "spread": "0"
       },
-      "type": "boxShadow"
-    },
-    "Drop Shadow": {
-      "value": [
-        {
-          "color": "#00000033",
-          "type": "dropShadow",
-          "x": "0",
-          "y": "0",
-          "blur": "2",
-          "spread": "0"
-        },
-        {
-          "color": "#0000001f",
-          "type": "dropShadow",
-          "x": "0",
-          "y": "0",
-          "blur": "2",
-          "spread": "0"
-        },
-        {
-          "color": "#00000024",
-          "type": "dropShadow",
-          "x": "0",
-          "y": "0",
-          "blur": "2",
-          "spread": "0"
-        }
-      ],
-      "type": "boxShadow"
-    }
+      {
+        "color": "#0000001f",
+        "type": "dropShadow",
+        "x": "0",
+        "y": "0",
+        "blur": "2",
+        "spread": "0"
+      },
+      {
+        "color": "#00000024",
+        "type": "dropShadow",
+        "x": "0",
+        "y": "0",
+        "blur": "2",
+        "spread": "0"
+      }
+    ],
+    "type": "boxShadow"
   }
 }

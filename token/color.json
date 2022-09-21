@@ -151,7 +151,7 @@
       "description": "Built using hy-yellow-400"
     }
   },
-  "activeState": {
+  "active-state": {
     "active-focused": {
       "value": "#e2eefa",
       "type": "color",
@@ -235,7 +235,7 @@
       "description": "Built using hy-pink-600"
     }
   },
-  "functionalText": {
+  "functional-text": {
     "functional-text-purple-bg": {
       "value": "#d8b4fe",
       "type": "color",
@@ -277,7 +277,7 @@
       "description": "Built using hy-pink-300"
     }
   },
-  "blueGray": {
+  "blue-gray": {
     "bluegray-50": {
       "value": "#f8fafc",
       "type": "color",
@@ -329,7 +329,7 @@
       "description": "#0F172A"
     }
   },
-  "coolGray": {
+  "cool-gray": {
     "coolgray-50": {
       "value": "#f9fafb",
       "type": "color",
@@ -433,7 +433,7 @@
       "description": "#18181B"
     }
   },
-  "trueGray": {
+  "true-gray": {
     "truegray-50": {
       "value": "#fafafa",
       "type": "color",
@@ -485,7 +485,7 @@
       "description": "#171717"
     }
   },
-  "warmGray": {
+  "warm-gray": {
     "warmgray-50": {
       "value": "#fafaf9",
       "type": "color",
@@ -1005,7 +1005,7 @@
       "description": "#164E63"
     }
   },
-  "lightBlue": {
+  "light-blue": {
     "lightblue-50": {
       "value": "#f0f9ff",
       "type": "color",
@@ -1421,7 +1421,7 @@
       "description": "#881337"
     }
   },
-  "buttonState": {
+  "button-state": {
     "btn-basic-hover": {
       "value": "#0000000a",
       "type": "color"
