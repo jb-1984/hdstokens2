@@ -15,264 +15,264 @@
   },
   "text": {
     "text-black": {
-      "value": "#111827",
+      "value": "{cool-gray.coolgray-900}",
       "type": "color",
       "description": "Used for normal text in light mode"
     },
     "text-white": {
-      "value": "#ffffff",
+      "value": "{white.white}",
       "type": "color",
       "description": "Use for white text"
     },
     "text-secondary": {
-      "value": "#4b5563",
+      "value": "{cool-gray.coolgray-600}",
       "type": "color",
       "description": "Used for secondary text in light mode"
     },
     "text-disabled": {
-      "value": "#6b7280",
+      "value": "{cool-gray.coolgray-500}",
       "type": "color",
       "description": "Used for disabled text in light mode"
     }
   },
   "primary": {
     "primary-50": {
-      "value": "#f1f8fe",
+      "value": "{blue.blue-50}",
       "type": "color",
       "description": "#F1F8FE"
     },
     "primary-100": {
-      "value": "#e2eefa",
+      "value": "{blue.blue-100}",
       "type": "color",
       "description": "#E2EEFA"
     },
     "primary-200": {
-      "value": "#b7d5f3",
+      "value": "{blue.blue-200}",
       "type": "color",
       "description": "#B7D5F3"
     },
     "primary-300": {
-      "value": "#87b9ec",
+      "value": "{blue.blue-300}",
       "type": "color",
       "description": "#87B9EC"
     },
     "primary-400": {
-      "value": "#569de4",
+      "value": "{blue.blue-400}",
       "type": "color",
       "description": "#569DE4"
     },
     "primary-500": {
-      "value": "#3288de",
+      "value": "{blue.blue-500}",
       "type": "color",
       "description": "#3288DE"
     },
     "primary-600": {
-      "value": "#0e73d8",
+      "value": "{blue.blue-600}",
       "type": "color",
       "description": "#0E73D8"
     },
     "primary-700": {
-      "value": "#0a60ce",
+      "value": "{blue.blue-700}",
       "type": "color",
       "description": "#0A60CE"
     },
     "primary-800": {
-      "value": "#043cac",
+      "value": "{blue.blue-800}",
       "type": "color",
       "description": "#043CAC"
     },
     "primary-900": {
-      "value": "#03318b",
+      "value": "{blue.blue-900}",
       "type": "color",
       "description": "#03318B"
     }
   },
   "neutral": {
     "neutral-50": {
-      "value": "#f9fafb",
+      "value": "{cool-gray.coolgray-50}",
       "type": "color"
     },
     "neutral-100": {
-      "value": "#f3f4f6",
+      "value": "{cool-gray.coolgray-100}",
       "type": "color"
     },
     "neutral-200": {
-      "value": "#e5e7eb",
+      "value": "{cool-gray.coolgray-200}",
       "type": "color"
     },
     "neutral-300": {
-      "value": "#d1d5db",
+      "value": "{cool-gray.coolgray-300}",
       "type": "color"
     },
     "neutral-400": {
-      "value": "#9ca3af",
+      "value": "{cool-gray.coolgray-400}",
       "type": "color"
     },
     "neutral-500": {
-      "value": "#6b7280",
+      "value": "{cool-gray.coolgray-500}",
       "type": "color"
     },
     "neutral-600": {
-      "value": "#4b5563",
+      "value": "{cool-gray.coolgray-600}",
       "type": "color"
     },
     "neutral-700": {
-      "value": "#374151",
+      "value": "{cool-gray.coolgray-700}",
       "type": "color"
     },
     "neutral-800": {
-      "value": "#1f2937",
+      "value": "{cool-gray.coolgray-800}",
       "type": "color"
     },
     "neutral-900": {
-      "value": "#111827",
+      "value": "{cool-gray.coolgray-900}",
       "type": "color"
     }
   },
   "feedback": {
     "informational": {
-      "value": "#0a60ce",
+      "value": "{blue.blue-700}",
       "type": "color",
       "description": "Built using hy-blue-700"
     },
     "error": {
-      "value": "#da1500",
+      "value": "{red.red-600}",
       "type": "color",
       "description": "Built using hy-red-600"
     },
     "success": {
-      "value": "#04a003",
+      "value": "{green.green-600}",
       "type": "color",
       "description": "Built using hy-green-600"
     },
     "warning": {
-      "value": "#facc15",
+      "value": "{yellow.yellow-400}",
       "type": "color",
       "description": "Built using hy-yellow-400"
     }
   },
   "active-state": {
     "active-focused": {
-      "value": "#e2eefa",
+      "value": "{primary.primary-100}",
       "type": "color",
       "description": "Built using hy-primary-100"
     },
     "inactive-focused": {
-      "value": "#e2eefa",
+      "value": "{primary.primary-100}",
       "type": "color",
-      "description": "Built using hy-primary-100"
+      "description": "Built using hy-neutral-100"
     },
     "active-unfocused": {
-      "value": "#f3f4f6",
+      "value": "{neutral.neutral-100}",
       "type": "color",
       "description": "Built using hy-neutral-100"
     },
     "inactive-hover": {
-      "value": "#f3f4f6",
+      "value": "{neutral.neutral-100}",
       "type": "color",
       "description": "Built using hy-neutral-100"
     },
     "keyboard-focus": {
-      "value": "#000000",
+      "value": "{black.black}",
       "type": "color",
       "description": "Built using hy-black"
     },
     "active-hover": {
-      "value": "#e2eefa",
+      "value": "{primary.primary-100}",
       "type": "color",
       "description": "Built using hy-primary-100"
     },
     "active-pressed": {
-      "value": "#b7d5f3",
+      "value": "{primary.primary-200}",
       "type": "color",
       "description": "Built using hy-primary-200"
     },
     "inactive-pressed": {
-      "value": "#d1d5db",
+      "value": "{cool-gray.coolgray-300}",
       "type": "color",
       "description": "Built using hy-coolgrey-300"
     }
   },
   "functional": {
     "functional-purple-bg": {
-      "value": "#7e22ce",
+      "value": "{purple.purple-700}",
       "type": "color",
       "description": "Built using hy-purple-700"
     },
     "functional-blue-bg": {
-      "value": "#0a60ce",
+      "value": "{blue.blue-700}",
       "type": "color",
       "description": "Built using hy-blue-700"
     },
     "functional-teal-bg": {
-      "value": "#0d9488",
+      "value": "{teal.teal-600}",
       "type": "color",
       "description": "Built using hy-teal-600"
     },
     "functional-green-bg": {
-      "value": "#04a003",
+      "value": "{green.green-600}",
       "type": "color",
       "description": "Built using hy-green-600"
     },
     "functional-yellow-bg": {
-      "value": "#bf8808",
+      "value": "{yellow.yellow-600}",
       "type": "color",
       "description": "Built using hy-yellow-600"
     },
     "functional-orange-bg": {
-      "value": "#ea580c",
+      "value": "{orange.orange-600}",
       "type": "color",
       "description": "Built using hy-orange-600"
     },
     "functional-red-bg": {
-      "value": "#f92d18",
+      "value": "{red.red-500}",
       "type": "color",
       "description": "Built using hy-red-500"
     },
     "functional-pink-bg": {
-      "value": "#db2777",
+      "value": "{pink.pink-600}",
       "type": "color",
       "description": "Built using hy-pink-600"
     }
   },
   "functional-text": {
     "functional-text-purple-bg": {
-      "value": "#d8b4fe",
+      "value": "{purple.purple-300}",
       "type": "color",
       "description": "Built using purple.hy-purple-300"
     },
     "functional-text-blue-bg": {
-      "value": "#3abff8",
+      "value": "{light-blue.lightblue-300}",
       "type": "color",
       "description": "Built using hy-coolgray-900"
     },
     "functional-text-teal-bg": {
-      "value": "#5eead4",
+      "value": "{teal.teal-300}",
       "type": "color",
       "description": "Built using hy-teal-300"
     },
     "functional-text-lime-bg": {
-      "value": "#a3e635",
+      "value": "{lime.lime-400}",
       "type": "color",
       "description": "Built using hy-lime-400"
     },
     "functional-text-yellow-bg": {
-      "value": "#fde047",
+      "value": "{yellow.yellow-300}",
       "type": "color",
       "description": "Built using yellow.hy-yellow-300"
     },
     "functional-text-orange-bg": {
-      "value": "#fb923c",
+      "value": "{orange.orange-400}",
       "type": "color",
       "description": "Built using hy-orange-400"
     },
     "functional-text-red-bg": {
-      "value": "#fb6c5d",
+      "value": "{red.red-400}",
       "type": "color",
       "description": "Built using hy-red-400"
     },
     "functional-text-pink-bg": {
-      "value": "#f9a8d4",
+      "value": "{pink.pink-300}",
       "type": "color",
       "description": "Built using hy-pink-300"
     }
@@ -1465,12 +1465,12 @@
   },
   "background": {
     "bg-nav": {
-      "value": "#e5e7eb",
+      "value": "{cool-gray.coolgray-100}",
       "type": "color",
-      "description": "built with hy-neutral-200"
+      "description": "built with hy-coolgray-100"
     },
     "bg-page": {
-      "value": "#ffffff",
+      "value": "{white.white}",
       "type": "color"
     }
   }
