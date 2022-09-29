@@ -196,7 +196,7 @@
       "textDecoration": "{textDecoration.underline}"
     },
     "type": "typography",
-    "description": "Used in Link component to show hover"
+    "description": "Used in Link component to show hovers"
   },
   "hds-body-semi-bold-tag": {
     "value": {
