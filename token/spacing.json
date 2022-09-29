@@ -1,1 +1,67 @@
-{}
+{
+  "space-base": {
+    "value": "4",
+    "type": "spacing",
+    "description": "Base spacing value of 4px as per 4 point grid"
+  },
+  "space-x-2": {
+    "value": "{space-base}*2",
+    "type": "spacing",
+    "description": "8px horizontal spacing "
+  },
+  "space-y-2": {
+    "value": "{space-base}*2",
+    "type": "spacing",
+    "description": "8px vertical spacing "
+  },
+  "space-x-3": {
+    "value": "{space-base}*3",
+    "type": "spacing",
+    "description": "12px horizontal spacing "
+  },
+  "space-y-3": {
+    "value": "{space-base}*3",
+    "type": "spacing",
+    "description": "12px vertical spacing "
+  },
+  "space-x-4": {
+    "value": "{space-base}*4",
+    "type": "spacing",
+    "description": "16px horizontal spacing "
+  },
+  "space-y-4": {
+    "value": "{space-base}*4",
+    "type": "spacing",
+    "description": "16px vertical spacing "
+  },
+  "space-x-6": {
+    "value": "{space-base}*6",
+    "type": "spacing",
+    "description": "24px horizontal spacing "
+  },
+  "space-y-6": {
+    "value": "{space-base}*6",
+    "type": "spacing",
+    "description": "24px vertical spacing "
+  },
+  "space-x-8": {
+    "value": "{space-base}*8",
+    "type": "spacing",
+    "description": "32px horizontal spacing "
+  },
+  "space-y-8": {
+    "value": "{space-base}*8",
+    "type": "spacing",
+    "description": "32px vertical spacing "
+  },
+  "space-x-16": {
+    "value": "{space-base}*16",
+    "type": "spacing",
+    "description": "64px horizontal spacing "
+  },
+  "space-y-16": {
+    "value": "{space-base}*16",
+    "type": "spacing",
+    "description": "64px vertical spacing "
+  }
+}

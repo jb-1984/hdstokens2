@@ -2,9 +2,8 @@
   "tokenSetOrder": [
     "color",
     "typography",
-    "border-radius",
     "box-shadow",
-    "sizing",
+    "Radii",
     "spacing"
   ]
 }
