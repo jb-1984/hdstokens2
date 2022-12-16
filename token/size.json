@@ -1,0 +1,14 @@
+{
+  "icon-16": {
+    "value": "16",
+    "type": "sizing"
+  },
+  "icon-24": {
+    "value": "24",
+    "type": "sizing"
+  },
+  "icon-12": {
+    "value": "12",
+    "type": "sizing"
+  }
+}

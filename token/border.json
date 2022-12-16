@@ -1,0 +1,22 @@
+{
+  "border-1": {
+    "value": "1",
+    "type": "borderWidth",
+    "description": "default for form fields, card, stroked button, visual input"
+  },
+  "border-2": {
+    "value": "2",
+    "type": "borderWidth",
+    "description": "used in active state for forms fields, visual input\ndefault for keyboard focus"
+  },
+  "border-dash-1": {
+    "value": "1px dashed",
+    "type": "borderWidth",
+    "description": "used in file upload"
+  },
+  "border-dash-2": {
+    "value": "2px dashed",
+    "type": "borderWidth",
+    "description": "used in drag"
+  }
+}

@@ -38,5 +38,9 @@
     "value": "{shadow-base}",
     "type": "boxShadow",
     "description": "Use on Toast, Menu's"
+  },
+  "border-radius-base": {
+    "value": "4",
+    "type": "borderRadius"
   }
 }

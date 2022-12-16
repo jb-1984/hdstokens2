@@ -17,5 +17,20 @@
     "value": "{border-radius-base}/2",
     "type": "sizing",
     "description": "Reserved for tags only"
+  },
+  "border-radius-20": {
+    "value": "{border-radius-base}*5",
+    "type": "sizing",
+    "description": "used in switch"
+  },
+  "border-radius-left-base": {
+    "value": "4,0,0,4",
+    "type": "sizing",
+    "description": "used in split button"
+  },
+  "border-raduis-right-base": {
+    "value": "0,4,4,0",
+    "type": "sizing",
+    "description": "used in split button"
   }
 }
