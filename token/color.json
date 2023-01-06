@@ -1510,7 +1510,7 @@
       "type": "color",
       "description": "built using coolgray-500"
     },
-    "border-errro": {
+    "border-error": {
       "value": "{feedback.error}",
       "type": "color",
       "description": "built using feedback-error"

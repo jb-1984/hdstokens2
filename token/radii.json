@@ -28,7 +28,7 @@
     "type": "sizing",
     "description": "used in split button"
   },
-  "border-raduis-right-base": {
+  "border-radius-right-base": {
     "value": "0,4,4,0",
     "type": "sizing",
     "description": "used in split button"

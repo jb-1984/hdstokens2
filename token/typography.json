@@ -79,7 +79,7 @@
       "type": "paragraphSpacing"
     }
   },
-  "hds-heading": {
+  "heading": {
     "value": {
       "fontFamily": "{fontFamilies.open-sans}",
       "fontWeight": "{fontWeights.open-sans-0}",
@@ -92,7 +92,7 @@
     },
     "type": "typography"
   },
-  "hds-title": {
+  "title": {
     "value": {
       "fontFamily": "{fontFamilies.open-sans}",
       "fontWeight": "{fontWeights.open-sans-0}",
@@ -105,7 +105,7 @@
     },
     "type": "typography"
   },
-  "hds-sub-heading-semiboldr": {
+  "subhead-semibold": {
     "value": {
       "fontFamily": "{fontFamilies.open-sans}",
       "fontWeight": "{fontWeights.open-sans-1}",
@@ -118,7 +118,7 @@
     },
     "type": "typography"
   },
-  "hds-sub-heading": {
+  "subhead": {
     "value": {
       "fontFamily": "{fontFamilies.open-sans}",
       "fontWeight": "{fontWeights.open-sans-0}",
@@ -131,7 +131,7 @@
     },
     "type": "typography"
   },
-  "hds-body-semi-bold": {
+  "body-semibold": {
     "value": {
       "fontFamily": "{fontFamilies.open-sans}",
       "fontWeight": "{fontWeights.open-sans-1}",
@@ -144,7 +144,7 @@
     },
     "type": "typography"
   },
-  "hds-body": {
+  "body": {
     "value": {
       "fontFamily": "{fontFamilies.open-sans}",
       "fontWeight": "{fontWeights.open-sans-0}",
@@ -157,7 +157,7 @@
     },
     "type": "typography"
   },
-  "hds-caption": {
+  "caption": {
     "value": {
       "fontFamily": "{fontFamilies.open-sans}",
       "fontWeight": "{fontWeights.open-sans-0}",
@@ -170,7 +170,7 @@
     },
     "type": "typography"
   },
-  "hds-caption-bold": {
+  "caption-bold": {
     "value": {
       "fontFamily": "{fontFamilies.open-sans}",
       "fontWeight": "{fontWeights.open-sans-2}",
@@ -184,7 +184,7 @@
     "type": "typography",
     "description": "Caption Text\nFont size: 12px\nFont weight: 700\nLine-height: 19px"
   },
-  "hds-body-semi-bold-underline": {
+  "body-semibold-underline": {
     "value": {
       "fontFamily": "{fontFamilies.open-sans}",
       "fontWeight": "{fontWeights.open-sans-1}",
@@ -198,7 +198,7 @@
     "type": "typography",
     "description": "Used in Link component to show hovers"
   },
-  "hds-body-semi-bold-tag": {
+  "body-semibold-tag": {
     "value": {
       "fontFamily": "{fontFamilies.open-sans}",
       "fontWeight": "{fontWeights.open-sans-1}",
@@ -212,7 +212,7 @@
     "type": "typography",
     "description": "Use in the Tag component only to get size of tag at 20px."
   },
-  "hds-body-bold": {
+  "body-bold": {
     "value": {
       "fontFamily": "{fontFamilies.open-sans}",
       "fontWeight": "{fontWeights.open-sans-2}",
