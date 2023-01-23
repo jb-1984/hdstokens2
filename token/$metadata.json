@@ -7,6 +7,15 @@
     "spacing",
     "Z-index",
     "border",
-    "size"
+    "size",
+    "Font Family",
+    "Font Weight",
+    "lineHeights",
+    "letterSpacing",
+    "paragraphSpacing",
+    "test",
+    "fontSize",
+    "textDecoration",
+    "textCase"
   ]
 }

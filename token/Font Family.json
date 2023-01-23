@@ -1,0 +1,7 @@
+{
+  "open-sans": {
+    "value": "Open Sans",
+    "type": "fontFamilies",
+    "description": "Default font family for HDS"
+  }
+}

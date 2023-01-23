@@ -1,0 +1,22 @@
+{
+  "fontSize-0": {
+    "value": "12",
+    "type": "fontSizes"
+  },
+  "fontSize-1": {
+    "value": "14",
+    "type": "fontSizes"
+  },
+  "fontSize-2": {
+    "value": "20",
+    "type": "fontSizes"
+  },
+  "fontSize-3": {
+    "value": "25",
+    "type": "fontSizes"
+  },
+  "fontSize-4": {
+    "value": "31",
+    "type": "fontSizes"
+  }
+}

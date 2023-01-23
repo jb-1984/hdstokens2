@@ -1,0 +1,14 @@
+{
+  "open-sans-0": {
+    "value": "regular",
+    "type": "fontWeights"
+  },
+  "open-sans-1": {
+    "value": "SemiBold",
+    "type": "fontWeights"
+  },
+  "open-sans-2": {
+    "value": "Bold",
+    "type": "fontWeights"
+  }
+}
