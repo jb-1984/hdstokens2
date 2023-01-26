@@ -1,22 +1,26 @@
 {
-  "lineHeights-0": {
+  "line-heights-0": {
     "value": "39",
     "type": "lineHeights"
   },
-  "lineHeights-1": {
+  "line-heights-1": {
     "value": "35",
     "type": "lineHeights"
   },
-  "lineHeights-2": {
+  "line-heights-2": {
     "value": "32",
     "type": "lineHeights"
   },
-  "lineHeights-3": {
+  "line-heights-3": {
     "value": "23",
     "type": "lineHeights"
   },
-  "lineHeights-4": {
+  "line-heights-4": {
     "value": "19",
+    "type": "lineHeights"
+  },
+  "line-heights-5": {
+    "value": "20",
     "type": "lineHeights"
   }
 }

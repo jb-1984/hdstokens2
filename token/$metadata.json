@@ -8,14 +8,13 @@
     "Z-index",
     "border",
     "size",
-    "Font Family",
-    "Font Weight",
-    "lineHeights",
-    "letterSpacing",
-    "paragraphSpacing",
-    "test",
-    "fontSize",
-    "textDecoration",
-    "textCase"
+    "Font-family",
+    "Font-weight",
+    "line-heights",
+    "letter-spacing",
+    "paragraph-spacing",
+    "font-size",
+    "text-decoration",
+    "text-case"
   ]
 }
